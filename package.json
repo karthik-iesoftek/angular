@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "npm": "^9.6.2"
   }
 }
